@@ -1,0 +1,15 @@
+C:\Users\ALUNO\Desktop\aula17\obj\Debug\net7.0\aula17.csproj.AssemblyReference.cache
+C:\Users\ALUNO\Desktop\aula17\obj\Debug\net7.0\aula17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO\Desktop\aula17\obj\Debug\net7.0\aula17.AssemblyInfoInputs.cache
+C:\Users\ALUNO\Desktop\aula17\obj\Debug\net7.0\aula17.AssemblyInfo.cs
+C:\Users\ALUNO\Desktop\aula17\obj\Debug\net7.0\aula17.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Desktop\aula17\bin\Debug\net7.0\aula17.exe
+C:\Users\ALUNO\Desktop\aula17\bin\Debug\net7.0\aula17.deps.json
+C:\Users\ALUNO\Desktop\aula17\bin\Debug\net7.0\aula17.runtimeconfig.json
+C:\Users\ALUNO\Desktop\aula17\bin\Debug\net7.0\aula17.dll
+C:\Users\ALUNO\Desktop\aula17\bin\Debug\net7.0\aula17.pdb
+C:\Users\ALUNO\Desktop\aula17\obj\Debug\net7.0\aula17.dll
+C:\Users\ALUNO\Desktop\aula17\obj\Debug\net7.0\refint\aula17.dll
+C:\Users\ALUNO\Desktop\aula17\obj\Debug\net7.0\aula17.pdb
+C:\Users\ALUNO\Desktop\aula17\obj\Debug\net7.0\aula17.genruntimeconfig.cache
+C:\Users\ALUNO\Desktop\aula17\obj\Debug\net7.0\ref\aula17.dll
